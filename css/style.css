@@ -1,0 +1,87 @@
+
+body{
+  background-color: #212121;
+}
+
+/* Background del chat */
+
+.bg-conver{
+  background-color: #F78181;
+  height: 900px;
+  margin-top: -10px;
+}
+
+/* Foto de perfil */
+
+.dog{
+  width: 60px;
+}
+
+/* Search */
+
+::-webkit-input-placeholder {
+   color:  pink;
+}
+
+:-ms-input-placeholder {  
+   color: #blue;  
+}
+
+input {
+  margin: 0;
+}
+
+#search{
+  width: 315px;
+}
+
+/* Scroll */
+
+#global-1 {
+  height: 470px;
+  border: 1px solid #ddd;
+  overflow-y: scroll;
+}
+
+#scroll-1 {
+  height: auto;
+}
+
+#global-2 {
+  height: 452px;
+  width: 507px;
+  overflow-y: scroll;
+  border:none;
+}
+
+#scroll-2 {
+  height: auto;
+  border:none;
+}
+
+/* Tamaño cajas texto conversación */
+
+.panel-size{
+  width: 300px;
+}
+
+.collection{
+  border:none;
+}
+
+.panel-footer{
+  background-color: white;
+  width: 507px;
+  height: 90px;
+  border-top:6px solid #c2185b;
+}
+
+.input-group{
+  width: 350px;
+  margin-left: 25px;
+}
+
+.btn-floating{
+  margin-top: -70px;
+  margin-left: 400px;
+}
